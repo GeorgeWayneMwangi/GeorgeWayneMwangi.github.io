@@ -1,0 +1,125 @@
+.heading1 {
+  text-align: center;
+  text-decoration: underline;
+  font-family: fantasy;
+  font: Jazz LET;
+  color: white;
+  font-size: 40px
+}
+body {
+  background-color: #659DBD;
+  background-image: url("cool-background.png")
+  text-align: justify;
+  text-size: 20px;
+  font-family: fantasy;
+  font-weight: bold;
+  color: white;
+}
+.intro1 {
+  text-align: center;
+  font-style: italic;
+  font-family: fantasy;
+  font: Jazz LET;
+  border: 2px red;
+  padding: inherit;
+  margin: auto;
+  background-color: #DAAD86;
+  font-size: 20px;
+}
+.uzito {
+  text-align: center;
+  font-style: italic;
+  font-family: fantasy;
+  font: Jazz LET;
+  border: 2px red;
+  padding: inherit;
+  margin: auto;
+  background-color: #DAAD86;
+  font-size: 20px;
+}
+h2 {
+  text-align: center;
+  text-decoration: underline;
+  font-family: fantasy;
+  font: Jazz LET;
+  color: white;
+  font-size: 40px
+}
+.me {
+  color: white;
+  width: auto;
+  float: right;
+  border: 2px black;
+  padding: 5px;
+  margin: auto;
+  background-color: #D35400;
+  float: right;
+  font-family: fantasy;
+  font: Jazz LET;
+  font-size: 20px;
+
+
+
+
+}
+.image1 {
+  float: left;
+}
+.uzito2 {
+  color: grey;
+  width: auto;
+  float: right;
+  border: 2px black;
+  padding: 5px;
+  margin: auto;
+  background-color: yellow;
+  font-family: fantasy;
+  font: Jazz LET;
+  font-size: 20px;
+
+}
+.image3 {
+  float: right;
+
+}
+.hobbies {
+  color: #F7DC6F;
+  width: auto;
+  float: right;
+  border: 2px black;
+  padding: 5px;
+  margin: auto;
+  background-color: blue;
+  float: left;
+  font-family: fantasy;
+  font: Jazz LET;
+  font-size: 20px;
+
+}
+.projects {
+  color: #154360;
+  width: auto;
+  float: right;
+  border: 2px black;
+  padding: 5px;
+  margin: auto;
+  background-color: yellow;
+  float: left;
+  font-family: fantasy;
+  font: Jazz LET;
+  font-size: 20px;
+
+
+}
+.final {
+  color: black;
+  background-color: #A3E4D7;
+  text-align: center;
+  font-family: fantasy;
+  font: Jazz LET;
+  font-size: 20px;
+
+}
+.image2 {
+  float: left;
+}
